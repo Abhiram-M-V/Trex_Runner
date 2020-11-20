@@ -38,6 +38,8 @@ function setup() {
   
   trex = createSprite(50,180,20,50);
   
+  trex.setCollider("circle",0,0,45);
+  
   trex.addAnimation("running", trex_running);
   trex.addAnimation("collided", trex_collided);
   trex.scale = 0.5;

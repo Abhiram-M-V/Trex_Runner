@@ -1,2 +1,2 @@
-# Trex_Runner
+# Trex
 This is a Trex Runner Game
